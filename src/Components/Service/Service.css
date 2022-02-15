@@ -1,8 +1,9 @@
-.product-container{
+.card-style{
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    background-color: white;
 }
-.product-container img{
+.card-img-top {
     margin-top: 15px;
     max-width: 200px;
     height: 250px;

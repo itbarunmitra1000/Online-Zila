@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Row } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Service from '../Service/Service';
@@ -12,13 +13,12 @@ const Services = () => {
     }, [])
     return (
         <>
-            <h1 className='mt-5 d-flex justify-content-center'>Our Services</h1>
+            <h1 className='my-5 d-flex justify-content-center fw-bolder'>BEST PRODUCTS</h1>
             <div className='bg-color '>
-                <div className='container '>
+                <div className='container overflow-hidden '>
 
-                    <div className='services-container'>
-
-                        {
+                    <Row xs={1} md={2} lg={3} className='g-3 '>
+                            {
                             services.map(service => <Service
                                 key={service.id}
                                 service={service}
@@ -27,8 +27,7 @@ const Services = () => {
                             </Service>)
                         }
 
-
-                    </div>
+                    </Row>
                 </div>
 
             </div>
