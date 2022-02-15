@@ -12,7 +12,7 @@ const Header = () => {
         <>
             <Navbar bg="light" variant="light" collapseOnSelect expand="lg" >
                 <Container>
-                    <Navbar.Brand to="#home" className="fw-bolder fs-3">Online  <span className="text-warning">Zila</span> </Navbar.Brand>
+                    <Navbar.Brand to="#home" className="fw-bolder fs-3">Online  <span className="logo-clr">Zila</span> </Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end ">
                         <Nav.Link as={Link} className='text-dark navbar-style' to="/home">Home</Nav.Link>
@@ -32,7 +32,7 @@ const Header = () => {
                                 <Nav.Link as={Link} className='text-dark navbar-style' to="/register">Register</Nav.Link>
                             </>
                         }
-                        <Nav.Link as={Link} className='text-dark navbar-style' to="/contact"><h4><FaShoppingCart /></h4></Nav.Link>
+                        <Nav.Link as={Link} className='text-dark navbar-style' to=""><h4><FaShoppingCart /></h4></Nav.Link>
                     </Navbar.Collapse>
 
                 </Container>

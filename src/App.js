@@ -35,15 +35,6 @@ function App() {
             <Route path='/about'>
               <About></About>
             </Route>
-            <Route path='/contact'>
-              <Contact></Contact>
-            </Route>
-            <PrivateRoute path='/patients'>
-              <Patients></Patients>
-            </PrivateRoute>
-            <PrivateRoute path='/education'>
-              <Patients></Patients>
-            </PrivateRoute>
             <Route path='/login'>
               <Login></Login>
             </Route>

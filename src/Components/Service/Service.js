@@ -1,5 +1,4 @@
 import React from 'react';
-import { Card, Col } from 'react-bootstrap';
 import { FaShoppingCart } from 'react-icons/fa';
 import './Service.css';
 
