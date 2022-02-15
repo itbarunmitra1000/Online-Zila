@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Apple TV 32GB",
+        "color": "BLACK",
+        "price": "49.99",
+        "image": "https://www.penguin.com.bd/wp-content/uploads/2021/09/Apple-TV-4K-32GB-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pebble Time",
+        "color": "RED",
+        "price": "29.99",
+        "image": "https://i.ebayimg.com/images/g/DTIAAOSwwO9f6c7K/s-l500.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Zendure 4-Port USB",
+        "color": "WHITE",
+        "price": "49.99",
+        "image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFsaG13NTdZckwuX0FDX1NMMTAwMF8uanBn.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ollo Clip New",
+        "color": "SILVER",
+        "price": "19.99",
+        "image": "https://i0.wp.com/macsources.com/wp-content/uploads/2018/05/featured-olloclip-iphonex.jpg?fit=1080%2C675&ssl=1"
+    },
+    {
+        "id": 5,
+        "name": "Fibit Charge HR Heart Tracker",
+        "color": "BLACK",
+        "price": "19.99",
+        "image": "https://www.techadvisor.com/cmsdata/reviews/3585633/Fitbit-Charge-HR-black.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Apple Watch",
+        "color": "WHITE",
+        "price": "49.99",
+        "image": "https://i5.walmartimages.com/asr/862278ab-38fb-4f6a-a0b1-e34f440b9a71.58188730beede8918724063b1ddb10eb.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+    },
+    {
+        "id": 7,
+        "name": "Bose SoundLInk",
+        "color": "WHITE",
+        "price": "149.99",
+        "image": "https://www.bhphotovideo.com/images/images2500x2500/bose_858365_0100_soundlink_revolve_ii_bluetooth_1630964.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Scnos Play-1 Wireless",
+        "color": "BLACK",
+        "price": "99.99",
+        "image": "https://img1-327a.kxcdn.com/DataImage.ashx/9209118/467/350"
+    },
+    {
+        "id": 9,
+        "name": "Withings Smart Body",
+        "color": "BLACK",
+        "price": "39.99",
+        "image": "https://i.pcmag.com/imagery/reviews/00ZrBFLrmsza9qei0ZKVZYv-3..v1569474259.jpg"
+    }
+]
