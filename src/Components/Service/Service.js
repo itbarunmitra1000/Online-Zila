@@ -8,7 +8,7 @@ const Service = ({ service }) => {
     const { name, image, color, price } = service;
     return (
 
-        <div className='my-5 '  >
+        <div className='  my-5 '  >
             <div className="col ">
             <div className="card border border-0" >
                 <div className="p-3 d-flex justify-content-center">
@@ -25,20 +25,7 @@ const Service = ({ service }) => {
 
         </div>
 
-        // <div className='my-5 ' >
-        // {/* card create dynamic  */}
-        //     <Col>
-        //         <Card className='shadow'  >
-        //             <Card.Img variant="top image-size" src={image} />
-        //             <Card.Body>
-        //                 <Card.Title className='text-center mb-3 fw-bolder  '>{name}</Card.Title>
-        //                 <Card.Title className="card-text text-center text-secondary fw-bold mb-4">{color}</Card.Title>
-        //                 <Card.Text className='text-success fs-4 fw-bolder'>{price}</Card.Text>
-        //                 <Card.Text className=" d-flex justify-content-end text-secondary mb-4" ></Card.Text>
-        //             </Card.Body>
-        //         </Card>
-        //     </Col>
-        // </div>
+ 
     );
 };
 

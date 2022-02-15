@@ -9,13 +9,13 @@ const Footer = () => {
                     <div className=" d-lg-flex justify-content-lg-between">
                         <div className="pb-3">
                             <ul className="list-unstyled d-flex">
-                                <li className="me-5 fw-bolder fs-3 "><NavLink to="" className="text-decoration-none text-white">Health <span className="text-warning">24</span></NavLink></li>
+                                <li className="me-5 fw-bolder fs-3 "><NavLink to="" className="text-decoration-none text-white">Online <span className="text-warning">Zila</span></NavLink></li>
                                 {/* <li className="me-5 "><NavLink to="" className="text-decoration-none text-white">License</NavLink></li> */}
                             </ul>
                             <ul className="list-unstyled d-flex flex-wrap ">
-                                <li className="me-5 mb-3 "><NavLink to="" className="text-decoration-none text-white">Find a clinic</NavLink>
+                                <li className="me-5 mb-3 "><NavLink to="" className="text-decoration-none text-white">Find a Shop</NavLink>
                                 </li>
-                                <li className="me-5 mb-3 "><NavLink to="" className="text-decoration-none text-white">Resources</NavLink>
+                                <li className="me-5 mb-3 "><NavLink to="" className="text-decoration-none text-white">Sponsors</NavLink>
                                 </li>
                                 <li className="me-5 mb-3 "><NavLink to="" className="text-decoration-none text-white">Blog</NavLink>
                                 </li>
@@ -26,7 +26,7 @@ const Footer = () => {
                                 <li className=" mb-3 "><NavLink to="" className="text-decoration-none text-white">Privacy
                                     Policy</NavLink></li>
                             </ul>
-                            <p className="text-white d-flex"> &#169; 2021 Health &nbsp; <span className="text-warning"> 24</span>. All rights reserved </p>
+                            <p className="text-white d-flex">&nbsp; &nbsp; &#169; Online &nbsp; <span className="text-warning"> Zila</span>&nbsp;  All rights reserved </p>
                         </div>
 
                     </div>
